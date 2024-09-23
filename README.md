@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" height="270" width="300" src="https://user-images.githubusercontent.com/99413629/212356179-72d0d750-710a-4077-8c79-34b55d6eb954.gif">
 
-- 👀 I’m interested in **Full Stack Development**
+- 👀 I’m interested in **Front-End Developer**
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, Mongodb**
 
