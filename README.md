@@ -35,9 +35,9 @@
 <p align="left">  
 <a href="https://www.linkedin.com/in/jai-singh-24b24a298" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman khandelwal" height="40" width="40" /> </a>
 &nbsp; &nbsp;
-<a href="https://www.instagram.com/naman_koolwal/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>
+<a href="https://www.instagram.com/rajput_jai005/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>
 &nbsp; &nbsp; 
-<a href="https://twitter.com/NAMANKH31936926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naman khandelwal" height="40" width="40" /></a>
+
 </p>
 &nbsp; &nbsp; 
       
