@@ -148,7 +148,7 @@
 <!--
 <h2 align="center"><b>🏆 Github Trophy</b></h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namankoolwal&theme=discord&no-bg=true&margin-w=4" style="margin: 10px" alt="namankoolwal" /></a> </p>
-<br> <br>
+<br> <br>-->
 
 <h2 align="center"><b>📊 Github Stats</b></h2>
 <p align="center">
@@ -157,7 +157,7 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=namankoolwal&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact"/>
 
 
-</p>-->
+</p>
 <br>
 
 <h2 align="center"><b>🌄 GitHub Activity</b></h2>
