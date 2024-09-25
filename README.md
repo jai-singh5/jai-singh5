@@ -182,7 +182,7 @@
 
 <br>
 
-<!--<img src="https://raw.githubusercontent.com/namankoolwal/namankoolwal/output/snake.svg" alt="Snake animation" />-->
+<img src="https://raw.githubusercontent.com/namankoolwal/namankoolwal/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
 
