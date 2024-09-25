@@ -190,5 +190,3 @@
 
 </div>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/99413629/212357396-fe1a483f-6269-43ea-bfe9-06099f7c0c87.svg" alt="wave svg" />
-</p>
