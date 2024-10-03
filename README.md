@@ -163,7 +163,7 @@
 <h2 align="center"><b>🌄 GitHub Activity</b></h2>
 
 <div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jai-singh5&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />   
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jai-singh5&radius=16&theme=tokyo-night&area=true&order=2" height="300" alt="activity-graph graph"  />   
 </div>
 
 
