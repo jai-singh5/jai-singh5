@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, Mongodb**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/jai-singh5)
+- 👨‍💻 All of my projects are available [here](https://jai-portfolio-pi.vercel.app/)
 
 - 📫 How to reach me **jaisingh09520@gmail.com**
 
