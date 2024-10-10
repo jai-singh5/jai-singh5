@@ -86,14 +86,14 @@
 
 </td>
 
-<td >
+<!-- <td >
 
-<!-- ###### Authentication and Databases
+ ###### Authentication and Databases
 
 <img src="https://skillicons.dev/icons?i=firebase,appwrite&perline=2" />
 
-</td>
-<td style="width:33%"> -->
+</td> -->
+<td style="width:33%"> 
 
 ###### Package Management
 
@@ -104,13 +104,13 @@
 </tr>
 <tr>
 
-<td style="width:33%">
+<!-- <td style="width:33%">
 
 ###### Testing and API
 
 <img src="https://skillicons.dev/icons?i=thunderclient&perline=1" />
 
-</td>
+</td> -->
 
 <td >
 
