@@ -42,11 +42,11 @@
 &nbsp; &nbsp; 
       
 <h2 align="left"><b>🎇Languages and Tools</b></h2>
-
+<!--
 <div align="left">
    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,androidstudio,bootstrap,tailwind,react,nextjs,net,git,github,nodejs,mongodb,mysql,npm,vscode,vercel&perline=10" />
 </div> 
-
+-->
 
 
 
@@ -78,7 +78,7 @@
 </tr>
 <tr>
 
-<td style="width:33%">
+<td style="width:50%">
 
 ###### Backend and Database
 
@@ -93,7 +93,7 @@
 <img src="https://skillicons.dev/icons?i=firebase,appwrite&perline=2" />
 
 </td> -->
-<td style="width:33%"> 
+<td style="width:50%"> 
 
 ###### Package Management
 
@@ -119,7 +119,7 @@
 <img src="https://skillicons.dev/icons?i=vercel,netlify&perline=2" />
 
 </td>
-<td style="width:33%">
+<td style="width:50%">
 
 <!-- ###### Content Management System
 
@@ -127,9 +127,9 @@
 
 </td>
 
-</tr>
-<tr>
-<td style="width:33%"> -->
+</tr>-->
+<tr> 
+<td style="width:100%"> 
 
 ###### Development Environment
 
