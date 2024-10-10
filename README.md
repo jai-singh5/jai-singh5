@@ -88,12 +88,12 @@
 
 <td >
 
-###### Authentication and Databases
+<!-- ###### Authentication and Databases
 
 <img src="https://skillicons.dev/icons?i=firebase,appwrite&perline=2" />
 
 </td>
-<td style="width:33%">
+<td style="width:33%"> -->
 
 ###### Package Management
 
@@ -108,7 +108,7 @@
 
 ###### Testing and API
 
-<img src="https://skillicons.dev/icons?i=postman&perline=1" />
+<img src="https://skillicons.dev/icons?i=thunderclient&perline=1" />
 
 </td>
 
@@ -121,7 +121,7 @@
 </td>
 <td style="width:33%">
 
-###### Content Management System
+<!-- ###### Content Management System
 
 <img src="https://skillicons.dev/icons?i=wordpress&perline=1" />
 
@@ -129,7 +129,7 @@
 
 </tr>
 <tr>
-<td style="width:33%">
+<td style="width:33%"> -->
 
 ###### Development Environment
 
