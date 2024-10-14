@@ -101,8 +101,7 @@
 
 </td>
 
-</tr>
-<tr>
+
 
 <!-- <td style="width:33%">
 
@@ -119,7 +118,9 @@
 <img src="https://skillicons.dev/icons?i=vercel,netlify&perline=2" />
 
 </td>
-<td style="width:50%">
+</tr>
+<tr>
+<!-- <td style="width:50%">
 
 <!-- ###### Content Management System
 
@@ -128,7 +129,7 @@
 </td>
 
 </tr>-->
-<tr> 
+ 
 <td style="width:100%"> 
 
 ###### Development Environment
